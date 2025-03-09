@@ -31,8 +31,8 @@ This application allows users to create a dynamic grid with draggable square cel
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone <repository-url>
-cd <project-folder>
+git clone git@github.com:thien0110/pastel-grid-app.git
+cd pastel-grid-app
 ```
 
 ### 2️⃣ Install Dependencies
